@@ -1,4 +1,4 @@
-# Matching Pairs game in Excel VBA
+# Matching Pairs Game in Excel VBA
 
 This is a basic "Matching tiles" game featuring a computer "opponent". It was written in VBA and originally coded in Excel 2003.
 
