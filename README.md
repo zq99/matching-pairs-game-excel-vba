@@ -1,7 +1,10 @@
 # Matching Pairs Game in Excel VBA
 
-This is a basic "Matching tiles" game featuring a computer "opponent". It was written in VBA and originally coded in Excel 2003.
+This is a basic "Matching tiles" game featuring a computer "opponent".
 
+The code is quite old (first version of this was written in Excel 2003).
+
+It has been updated once since, but could use some significant refactoring.
 
 
 <img src=screenshots/match.png width=500>
